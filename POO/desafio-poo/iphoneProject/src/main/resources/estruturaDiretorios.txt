@@ -1,0 +1,24 @@
+iPhoneProject/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── exemplo/
+│   │   │           ├── iphone/
+│   │   │           │   ├── iPhone.java
+│   │   │           │   ├── ReprodutorMusical.java
+│   │   │           │   ├── AparelhoTelefonico.java
+│   │   │           │   └── NavegadorNaInternet.java
+│   │   └── resources/
+│   │       └── ... (arquivos de recursos, como arquivos de configuração, imagens, etc.)
+│   ├── test/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── exemplo/
+│   │   │           ├── iphone/
+│   │   │           │   ├── iPhoneTest.java
+│   │   │           │   ├── ReprodutorMusicalTest.java
+│   │   │           │   ├── AparelhoTelefonicoTest.java
+│   │   │           │   └── NavegadorNaInternetTest.java
+│   │   └── resources/
+│   │       └── ... (arquivos de recursos para testes, se necessário)
