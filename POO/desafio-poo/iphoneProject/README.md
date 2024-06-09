@@ -1,18 +1,37 @@
-## Getting Started
+# Projeto iPhone 📱🎵📞🌐
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto implementa um simulador básico das funcionalidades de um iPhone, incluindo um reprodutor musical, um aparelho telefônico e um navegador na internet.
 
-## Folder Structure
+## Estrutura do Projeto 🏗️
 
-The workspace contains two folders by default, where:
+O projeto está estruturado da seguinte forma:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **src/main/java/com/exemplo/iphone/**: Contém as classes principais do projeto.
+  - `iPhone.java`: A classe principal que encapsula as funcionalidades do iPhone.
+  - `ReprodutorMusical.java`: A interface que define as funcionalidades de um reprodutor musical.
+  - `AparelhoTelefonico.java`: A interface que define as funcionalidades de um aparelho telefônico.
+  - `NavegadorNaInternet.java`: A interface que define as funcionalidades de um navegador na internet.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **src/test/java/com/exemplo/iphone/**: Contém as classes de teste para as funcionalidades do iPhone.
+  - `iPhoneTest.java`: Classe de teste para a classe `iPhone`.
+  - `ReprodutorMusicalTest.java`: Classe de teste para o reprodutor musical.
+  - `AparelhoTelefonicoTest.java`: Classe de teste para o aparelho telefônico.
+  - `NavegadorNaInternetTest.java`: Classe de teste para o navegador na internet.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Executar ▶️
 
-## Dependency Management
+Para executar os testes, você pode utilizar sua IDE preferida ou executar os testes via linha de comando. Certifique-se de ter configurado corretamente o ambiente de desenvolvimento e as dependências do projeto.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Contribuindo 🤝
+
+- Se você encontrou algum problema ou deseja adicionar uma nova funcionalidade, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+- Todas as contribuições são bem-vindas! 😊
+
+## Autores ✍️
+
+- [Yan Fernandes](https://github.com/yancfgomes) - Desenvolvedor principal
+
+## Licença 📝
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
