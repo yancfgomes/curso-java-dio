@@ -162,6 +162,7 @@ public class Cachorro extends Animal {
 ## 3. Abstração
 - Abstração é o ato de abstrair as características de um objeto, ou seja, pegar as características mais importantes e criar uma classe com base nelas.
 - É muito difícil falar de abstraçãoe NÃO mencionar polimorfismo.
+- Abstração é o ato de criar uma classe abstrata, que não pode ser instanciada, mas pode ser herdada.
 ## 4. Polimorfismo
 - São as inúmeras maneiras de se realizar uma mesma ação.
 - Polimorfismo é o ato de criar métodos com o mesmo nome, mas com comportamentos diferentes.
