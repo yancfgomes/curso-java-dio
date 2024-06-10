@@ -1,5 +1,8 @@
 package main.java.com.example.banco;
 
+/**
+ * Classe que representa um cliente do banco.
+ */
 public class Cliente {
     private String nome;
 
