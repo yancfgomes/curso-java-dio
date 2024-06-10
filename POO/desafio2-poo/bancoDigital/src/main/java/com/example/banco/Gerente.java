@@ -5,6 +5,7 @@ import java.util.List;
 /**
  * Classe que representa um gerente do banco.
  */
+
 public class Gerente {
     private String nome;
     private String matricula;
